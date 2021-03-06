@@ -1,0 +1,15 @@
+.header {
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: #ddc9b4;
+
+  .container {
+    padding: 1.5rem 0;
+    color: #2a3d45;
+    font-weight: 500;
+  }
+}
